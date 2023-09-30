@@ -92,6 +92,11 @@ const Span = styled.span`
     @media (min-width: 1968px) {
         font-size: 1rem;
     }
+
+    @media (max-width: 1024px) {
+        font-size: .8rem;
+        text-align: center;
+    }
 `;
 
 const Paragraph = styled.p`

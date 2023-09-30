@@ -1,0 +1,31 @@
+{
+    "MenuNav": {
+      "solucoes": "Soluciones",
+      "precos": "Precios",
+      "academy": "Academia",
+      "blog": "Blog",
+      "contato": "Contacto",
+      "entrar": "Entrar",
+      "comecarAgora": "Comenzar ahora"
+    },
+    "SubMenu": {
+      "solucoesPrincipais": "Soluciones principales",
+      "crieUmaEscolaOnline": "Crea una escuela en línea",
+      "comunidadeERedeSocial": "Comunidad y red social",
+      "gameficacao": "Gamificación",
+      "aplicativoMobile": "Aplicación móvil"
+    },
+    "Hero": {
+      "plataformaAllInOne": "Plataforma todo en uno",
+      "suaEscolaOnlinePoderosaELucrativa": "Tu escuela en línea poderosa y rentable",
+      "tenhaSuaPrópriaEscola": "Ten tu propia escuela en línea 100% de marca blanca con red social, gamificación, club de suscripción, comercio electrónico y sistema EAD completo.",
+      "comecarAgora": "Comenzar ahora",
+      "verVideo": "Ver video",
+      "pensamosEmCadaDetalhe": "Pensamos en cada detalle",
+      "conhecaAlgunsDosNossosRecursos": "Descubre algunas de nuestras características ⚡️",
+      "queremosQueOAlunoSeSintaConfortavelEnquantoAprende": "Queremos que el estudiante se sienta cómodo mientras aprende",
+      "vejaTodosOsOutrosRecursos": "Ver todas las demás características disponibles para ayudarte",
+      "verMais": "Ver más"
+    }
+  }
+  

@@ -1,0 +1,32 @@
+{
+    "MenuNav": {
+        "solucoes": "Soluctions",
+        "precos": "Prices",
+        "academy": "Academy",
+        "blog": "Blog",
+        "contato": "Contact",
+        "entrar": "Enter",
+        "comecarAgora": "Start now"
+    },
+
+    "SubMenu": {
+        "solucoesPrincipais": "Main solutions",
+        "crieUmaEscolaOnline": "Create an online school",
+        "comunidadeERedeSocial": "Community and social network",
+        "gameficacao": "Gamification",
+        "aplicativoMobile": "Mobile application"
+    },
+
+    "Hero": {
+        "plataformaAllInOne": "All-in-one platform",
+        "suaEscolaOnlinePoderosaELucrativa": "Your powerful and profitable online school",
+        "tenhaSuaPrópriaEscola": "Have your own 100% white label online school with social network, gamification, subscription club, ecommerce and complete EAD system.",
+        "comecarAgora": "Start now",
+        "verVideo": "Watch video",
+        "pensamosEmCadaDetalhe": "We think of every detail",
+        "conhecaAlgunsDosNossosRecursos": "Meet some of our features ⚡️",
+        "queremosQueOAlunoSeSintaConfortavelEnquantoAprende": "We want the student to feel comfortable while learning",
+        "vejaTodosOsOutrosRecursos": "See all the other features available to help you",
+        "verMais": "See more"
+    }
+}
